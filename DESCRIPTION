@@ -1,0 +1,15 @@
+Package: perceptronPredecir
+Title: Prediccion con un Perceptron Simple
+Version: 0.0.0.9000
+Authors@R: 
+    person("Marcela", "Paucar", , "estefany.marce@gmail.com", role = c("aut", "cre"))
+Description: Predice clases binarias (0 y 1) a partir de un modelo de
+    perceptron simple, estandarizando los datos nuevos con las medias y
+    desviaciones del entrenamiento.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
